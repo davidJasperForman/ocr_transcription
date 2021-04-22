@@ -8,7 +8,8 @@ This code uses the Google Cloud Vision OCR pipeline to get a high-quality transc
     (or somehow get Jupyter Notebook to work)
 2. Download this JupyterNotebook
 3. Obtain a Google Cloud account and (for this low-security way) insert the security code into the code. (Ctrl-F for 'key' or 'INSERT_SECURITY_KEY_HERE'.)
-4. Run the code for either
+    This page should be helpful for setting up the account: https://cloud.google.com/vision/docs/setup
+5. Run the code for either
        a) a single filepath of an image (for that, replace INSERT_IMAGE_FILEPATH_HERE with the relevant image filepath).
        b) all the jpg or png files within a given folder (for that, replace INSERT_IMAGE_FOLDER_PATH_HERE with the relevant folder path)
        
